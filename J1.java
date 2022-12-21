@@ -1,6 +1,6 @@
 package Java111Q2;
 import java.util.*;
-public class one {
+public class J1 {
 
 	public static void main(String[] args) {
 		System.out.println("密碼輸入測試");
