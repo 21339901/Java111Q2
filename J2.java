@@ -1,6 +1,6 @@
 package Java111Q2;
 import java.io.*;
-public class two {
+public class J2 {
 
 	public static void main(String[] args)throws IOException {
 		String str;
