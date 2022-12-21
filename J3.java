@@ -2,7 +2,7 @@ package Java111Q2;
 
 import java.io.*;
 
-public class three {
+public class J3 {
 
 	public static void main(String[] args) {
 		IArea a;
