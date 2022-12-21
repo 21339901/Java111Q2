@@ -21,10 +21,5 @@ public class J1 {
 			System.out.println("請再輸入一次密碼:");
 			pass2 = sc.nextInt();
 		}
-		try {	
-		}
-		catch(RuntimeException e) {
-			System.out.println(e);
-		}
 	}
 }
